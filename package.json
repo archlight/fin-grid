@@ -1,0 +1,22 @@
+{
+  "name": "fingrid",
+  "version": "1.0.0",
+  "description": "finance grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ren Wei",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.0",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.8.2"
+  },
+  "dependencies": {
+    "datasaur-local": "^3.0.0",
+    "fin-hypergrid": "^3.2.1",
+    "fin-hypergrid-event-logger": "^1.0.4",
+    "underscore": "^1.9.1"
+  }
+}
