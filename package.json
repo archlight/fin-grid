@@ -17,6 +17,6 @@
     "datasaur-local": "^3.0.0",
     "fin-hypergrid": "^3.2.1",
     "fin-hypergrid-event-logger": "^1.0.4",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
